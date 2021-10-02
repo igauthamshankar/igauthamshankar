@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @igauthamshankar
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate soon
-- 
+- 👋 Hi, I’m Gautham Shankar 
 
 <!---
 igauthamshankar/igauthamshankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
